@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Ary-Daniel/Sound_cloud_API/issues"
   },
-  "homepage": "https://github.com/Ary-Daniel/Sound_cloud_API#readme"
+  "homepage": "https://github.com/Ary-Daniel/Sound_cloud_API#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "winston": "^2.3.1"
+  }
 }
