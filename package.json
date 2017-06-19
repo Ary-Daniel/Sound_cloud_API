@@ -1,0 +1,19 @@
+{
+  "name": "sound_cloud_api",
+  "version": "1.0.0",
+  "description": "My personal sound cloud API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ary-Daniel/Sound_cloud_API.git"
+  },
+  "author": "Ary Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ary-Daniel/Sound_cloud_API/issues"
+  },
+  "homepage": "https://github.com/Ary-Daniel/Sound_cloud_API#readme"
+}
